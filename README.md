@@ -1,6 +1,6 @@
 # instagram_flutter_application
 
-Instagram like application using simple UI. This comprehensive guide will provide you with everything you need to know to get started with the project.
+Instagram application using simple UI. This comprehensive guide will provide you with everything you need to know to get started with the project.
 
 <br />
 <div>
@@ -20,7 +20,7 @@ Instagram like application using simple UI. This comprehensive guide will provid
 
 # Features
 
-List the key features and functionalities of your project:
+List the key features and functionalities of the project:
 
 - Bottom Navigation 
 
