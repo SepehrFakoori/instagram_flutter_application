@@ -2,13 +2,6 @@
 
 Instagram like application using simple UI. This comprehensive guide will provide you with everything you need to know to get started with the project.
 
-## Table of Contents
-
-- [Features](#features)
-
-- [Contributing](#contributing)
-
-
 <br />
 <div>
   &emsp;&emsp;&emsp;
@@ -25,7 +18,7 @@ Instagram like application using simple UI. This comprehensive guide will provid
 <br />
 
 
-## Features
+# Features
 
 List the key features and functionalities of your project:
 
@@ -34,19 +27,3 @@ List the key features and functionalities of your project:
 - Slivers
 
 - SliverQuiltedGridDelegate
-
-
-## Contributing
-I welcome contributions to instagram_flutter_application. If you would like to contribute to the development or report issues, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them with descriptive messages.
-
-4. Push your changes to your fork.
-
-5. Submit a pull request to the main repository.
-
-Thank you for choosing cryptocurrency_flutter_application! If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/sepehrfakoori/instagram_flutter_application/issues). We look forward to your feedback and collaboration.
